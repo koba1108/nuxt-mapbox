@@ -11,8 +11,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@mapbox/mapbox-gl-geocoder": "^4.5.1",
+    "@mapbox/mapbox-gl-language": "^0.10.1",
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0",
+    "mapbox-gl": "^1.8.0",
+    "vue-mapbox": "^0.4.1",
     "vuetify": "^1.5.5",
     "vuetify-loader": "^1.2.1"
   },
