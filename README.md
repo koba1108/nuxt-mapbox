@@ -1,0 +1,2 @@
+# nuxt-mapbox
+nuxt-mapbox
